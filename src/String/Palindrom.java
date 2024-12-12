@@ -1,2 +1,11 @@
-package String;public class Palindrom {
+package String;
+import java.util.*;
+public class Palindrom {
+
+    
+
+    public static void main(String[] args) {
+
+
+    }
 }

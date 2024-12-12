@@ -1,2 +1,8 @@
-package Hashmap;public class Hashing {
+package Hashmap;
+import java.util.*;
+public class Hashing {
+    public static void main(String[] args) {
+
+
+    }
 }
